@@ -9,7 +9,7 @@ body {
 }
 
 .hero-section {
-    background: url('/assets/img/hero_geosig.png') no-repeat center center/cover;
+    background: url('assets/img/hero_geosig.png') no-repeat center center/cover;
     color: #fff;
     padding: 100px 20px;
     text-align: center;
